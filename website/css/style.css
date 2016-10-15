@@ -1,0 +1,51 @@
+body {
+	background-color: white;
+	display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+  }
+
+.title {
+	font-family: 'Bungee Shade', cursive;
+	color: #2f61bd;
+	font-size: xx-large;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.form {
+	color: #2f61bd;
+	grid-area: about;
+	font-family: 'Bungee Inline', cursive;
+	font-size: xx-small;
+	text-decoration: underline;
+}
+
+.aboutL {
+	color: #2f61bd;
+	grid-area: about;
+	font-family: 'Bungee Inline', cursive;
+	font-size: xx-small;
+	text-decoration: underline;
+}
+
+.aboutBody {
+	font-family: 'Inconsolata', monospace;
+	font-size: x-large;
+	text-align: center;
+	color: black;
+}
+
+footer {
+	background-color: #6899fc;
+	position:absolute;
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	height: 50px;
+	width:100%;
+}
