@@ -14,7 +14,7 @@ Bringing together Designers, Developers, Marketers, and Visionaries to improve t
 Theme: improve CUNY.
 Anything that improves your life as a student: Add a feature to your school's mobile app? Build something to reach every campus?"
 
-#Links:
+# Links:
 Test It Out! {Our bot is currently under review by Facebook, however you can test out a version of it here}: http://bit.ly/cbbtest
 
 Official Website: http://mysocialcanvas.com/designhackathon/
@@ -25,6 +25,6 @@ Facebook: https://www.facebook.com/CUNYBuzz
 
 GitHub for Bot App: https://github.com/nishata/CUNYBuzzBot 
 
-#To Do:
+# To Do:
 - Create some sort of authentification for event submission form on website.
 - Link up site database and bot app.
